@@ -1,0 +1,25 @@
+body {
+    background-color: #c02a2a;
+}
+
+.page-content {
+    font-family: 'Courier New', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    width: 500px;
+    box-sizing: border-box;
+    margin-top: 80px;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.page-content * {
+    margin: 20px;
+}
+
+.title {
+    margin: 30px 60px;
+    color: blue;
+    background-color: aqua;
+    display: inline-block;
+    padding: 5px 10px;
+}
